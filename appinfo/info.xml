@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<info>
+    <id>files_move</id>
+    <name>Files Move</name>
+    <description>Move files with files interface</description>
+    <licence>AGPL</licence>
+    <author>simon</author>
+    <version>0.0.1</version>
+    <namespace>Files_Move</namespace>
+    <category>other</category>
+    <dependencies>
+        <owncloud min-version="8.1" />
+    </dependencies>
+</info>
